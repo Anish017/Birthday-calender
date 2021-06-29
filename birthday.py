@@ -1,7 +1,7 @@
 bdays = {'Anish': '2002-04-04', } # dictionary to store name as key and DOB as value
 
 
-#print(type(bdays))       (#just to clearify if the dictonary syntax is correct or not.)
+#print(type(bdays))    
 def show_menu():
     print("\n***** THIS IS YOUR BITHDAY CALENDER *****")
     print(" OKAY! WHAT YOU WANT ME TO DO")
